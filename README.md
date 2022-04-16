@@ -1,4 +1,4 @@
-### Salvee, eu sou o Gabriel Bedê! 
+### Salvee, eu sou o Gabriel Bedê! 👋🏼👾
 ##
 
 <div align="center">
@@ -20,7 +20,7 @@ e me dedicando para futuramente me tornar um dev front-end/full strack.
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBede&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-## Tecnologias que estou estudando atualmente:
+## 🟪 Tecnologias que estou estudando atualmente:
   
 <div align="center">
   <img align="center" alt="HTML-BEDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
