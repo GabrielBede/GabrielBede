@@ -5,11 +5,14 @@
   <img height="300em" src="https://user-images.githubusercontent.com/96921379/163653629-bb435531-958e-4a75-a2c1-5d42f49c4935.gif">
 </div>
 
-``` 
+<div max-width= "300em">
+
+  ``` 
 Estudante de Desenvolvimento de Sistemas na ETEC de Guarulhos. 
 Estou buscando aprimorar meus conhecimentos em programação a cada dia mais 
 e me dedicando para futuramente me tornar um dev front-end/full strack. 
-```
+  ```
+</div>
 
 <div align="center">
   <a href="https://github.com/GabrielBede">
