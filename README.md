@@ -1,24 +1,14 @@
 ### Salvee, eu sou o Gabriel Bedê! 👋🏼👾
 ##
 
-<div align="center">
-  <img height="300em" src="https://user-images.githubusercontent.com/96921379/163653629-bb435531-958e-4a75-a2c1-5d42f49c4935.gif">
-</div>
-
-<div max-width= "300em">
+  <img style="margin-top: 40px;" align="right" width="500px" src="https://user-images.githubusercontent.com/96921379/163653629-bb435531-958e-4a75-a2c1-5d42f49c4935.gif">
 
   ``` 
-Estudante de Desenvolvimento de Sistemas na ETEC de Guarulhos. 
-Estou buscando aprimorar meus conhecimentos em programação a cada dia mais 
-e me dedicando para futuramente me tornar um dev full strack. 
+Estudante de Desenvolvimento de Sistemas na ETEC 
+de Guarulhos. Estou buscando aprimorar meus conhecimentos 
+em programação a cada dia mais e me dedicando para 
+futuramente me tornar um dev full strack. 
   ```
-</div>
-
-<div align="center">
-  <a href="https://github.com/GabrielBede">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=GabrielBede&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBede&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
 
 ## 🟪 Tecnologias que estou estudando atualmente:
   
@@ -34,4 +24,11 @@ e me dedicando para futuramente me tornar um dev full strack.
   <img align="center" alt="BOOTSTRAP-BEDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="C#-BEDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
-  
+
+<br><br>
+
+<div align="center">
+  <a href="https://github.com/GabrielBede">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=GabrielBede&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBede&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
