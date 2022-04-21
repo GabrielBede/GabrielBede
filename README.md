@@ -1,7 +1,7 @@
 ## Olá, eu sou o Gabriel Bedê! <img width="21px" src="https://user-images.githubusercontent.com/96921379/164552867-bb4520f0-59a6-4b98-83f7-8e99703f78cf.png">🇧🇷
 
 
-  <img style="margin-top: 40px;" align="right" width="450px" src="https://user-images.githubusercontent.com/96921379/164551364-1e38b249-9863-42f5-a445-52e6b1399957.gif">
+  <img style="margin-top: 40px;" align="right" width="430px" src="https://user-images.githubusercontent.com/96921379/164551364-1e38b249-9863-42f5-a445-52e6b1399957.gif">
 
   ``` 
 Estudante de Desenvolvimento de Sistemas na ETEC de 
