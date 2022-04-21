@@ -1,4 +1,4 @@
-## Salvee, eu sou o Gabriel Bedê! 👋🏼🌐
+## Salvee, eu sou o Gabriel Bedê! 🤙🏼🌐
 
 
   <img style="margin-top: 40px;" align="right" width="400px" src="https://user-images.githubusercontent.com/96921379/164551364-1e38b249-9863-42f5-a445-52e6b1399957.gif">
