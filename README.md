@@ -10,7 +10,7 @@ em programação a cada dia mais e me dedicando para
 futuramente me tornar um dev full strack. 
   ```
 
-## 🟦 Tecnologias que estou estudando atualmente:
+## <img width="21px" src="https://user-images.githubusercontent.com/96921379/164554407-3127ab24-9a5a-4f70-8551-aa32494f5fa1.png"> Tecnologias que estou estudando atualmente:
   
 <div align="center">
   <img align="center" alt="HTML-BEDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
