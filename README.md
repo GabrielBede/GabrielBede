@@ -1,4 +1,4 @@
-## Salvee, eu sou o Gabriel Bedê! 👋🏼👾
+## Salvee, eu sou o Gabriel Bedê! 👋🏼🌐
 
 
   <img style="margin-top: 40px;" align="right" width="400px" src="https://user-images.githubusercontent.com/96921379/163653629-bb435531-958e-4a75-a2c1-5d42f49c4935.gif">
@@ -10,7 +10,7 @@ em programação a cada dia mais e me dedicando para
 futuramente me tornar um dev full strack. 
   ```
 
-## 🟪 Tecnologias que estou estudando atualmente:
+## 🟦 Tecnologias que estou estudando atualmente:
   
 <div align="center">
   <img align="center" alt="HTML-BEDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -28,6 +28,6 @@ futuramente me tornar um dev full strack.
 
 <div align="center">
   <a href="https://github.com/GabrielBede">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=GabrielBede&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBede&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=GabrielBede&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBede&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
