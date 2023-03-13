@@ -7,7 +7,7 @@
 Estudante de Desenvolvimento de Sistemas na ETEC de 
 Guarulhos. Estou buscando aprimorar meus conhecimentos 
 em programação a cada dia mais e me dedicando para 
-futuramente me tornar um dev full strack. 
+futuramente me tornar um dev full stack. 
   ```
 
 ## <img width="20px" src="https://user-images.githubusercontent.com/96921379/164554407-3127ab24-9a5a-4f70-8551-aa32494f5fa1.png"> Tecnologias que estou estudando atualmente:
