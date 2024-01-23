@@ -1,33 +1,45 @@
-## Olá, eu sou o Gabriel Bedê! <img width="21px" src="https://user-images.githubusercontent.com/96921379/164552867-bb4520f0-59a6-4b98-83f7-8e99703f78cf.png"><img width="25px" src="https://user-images.githubusercontent.com/96921379/165936854-db590624-94be-4a5f-be63-2332134432ed.png">
+# Olá, eu sou o Gabriel Bedê! 👋🏼
 
+## 👨‍💻 Sobre mim
+- 🌐 Sou programador full-stack e designer.
+- 🎓 Técnico em Desenvolvimento de Sistemas pela Etec de Guarulhos.
+- 🚀 Sempre em busca de aprender e aprimorar minhas habilidades tecnológicas.
 
-  <img style="margin-top: 40px;" align="right" width="430px" src="https://user-images.githubusercontent.com/96921379/164551364-1e38b249-9863-42f5-a445-52e6b1399957.gif">
+<br>
 
-  ``` 
-Estudante de Desenvolvimento de Sistemas na ETEC de 
-Guarulhos. Estou buscando aprimorar meus conhecimentos 
-em programação a cada dia mais e me dedicando para 
-futuramente me tornar um dev full stack. 
-  ```
+## 👾 Tecnologias que estou estudando atualmente:
+### Linguagens de Programação:
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img alt="HTML-BEDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS-BEDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="JS-BEDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="PHP-BEDE" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img alt="PYTHON-BEDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>
 
-## <img width="20px" src="https://user-images.githubusercontent.com/96921379/164554407-3127ab24-9a5a-4f70-8551-aa32494f5fa1.png"> Tecnologias que estou estudando atualmente:
+### Frameworks e Bibliotecas:
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img alt="BOOTSTRAP-BEDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img alt="NODEJS-BEDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+  <img alt="REACT-BEDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</div>
+
+### Banco de Dados:
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img alt="FIREBASE-BEDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  <img alt="SQL-BEDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</div>
   
-<div align="center">
-  <img align="center" alt="HTML-BEDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS-BEDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="JS-BEDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="REACT-BEDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="BOOTSTRAP-BEDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="PYTHON-BEDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="PHP-BEDE" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="SQL-BEDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="FIGMA-BEDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+### Ferramentas de Design:
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img alt="FIGMA-BEDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img alt="ILLUSTRATOR-BEDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+  <img alt="PHOTOSHOP-BEDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 </div>
 
-<br><br>
+<br>
 
-<div align="center">
-  <a href="https://github.com/GabrielBede">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=GabrielBede&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBede&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+## 📫 Entre em Contato
+- LinkedIn: [gabriel-bede](https://www.linkedin.com/in/gabriel-bede/)
+- Instagram: [gabriel_bede](https://www.instagram.com/gabriel_bede/)
+- Email: bedegabriel14@gmail.com
