@@ -36,10 +36,3 @@
   <img alt="ILLUSTRATOR-BEDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
   <img alt="PHOTOSHOP-BEDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 </div>
-
-<br>
-
-## 📫 Entre em Contato
-- LinkedIn: [gabriel-bede](https://www.linkedin.com/in/gabriel-bede/)
-- Instagram: [gabriel_bede](https://www.instagram.com/gabriel_bede/)
-- Email: bedegabriel14@gmail.com
